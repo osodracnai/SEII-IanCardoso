@@ -1,3 +1,6 @@
+/*Ian Cardoso
+11411EMT014 */
+
 #include "1.h"
 #include <iostream>
 #include <complex>

@@ -1,5 +1,5 @@
-// C++ recursive function to
-// solve tower of hanoi puzzle
+/*Ian Cardoso
+11411EMT014 */
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -18,7 +18,6 @@ void towerOfHanoi(int n, char from_rod,
     towerOfHanoi(n - 1, aux_rod, to_rod, from_rod);
 }
 
-// Driver code
 int main(int argc, char* argv[])
 {
 
